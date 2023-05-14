@@ -397,6 +397,8 @@ h6{
         .display-1{
             font-size: 7.5rem;
         }
+
+
     }
     @media screen and (max-width:400px) {
         .display-1{
@@ -461,6 +463,7 @@ h6{
         padding:0 8%;
         text-align: end;
         font-size:16px;
+        margin-bottom: 0;
     }
 
 
