@@ -1,7 +1,9 @@
 Harshita_Portfolio
 
 This repository serves as my personal portfolio, showcasing my skills, projects, and achievements. It provides a comprehensive overview of my professional experience and serves as a central hub for anyone interested in learning more about me and my work.
+
 You can access the deployed portfolio by clicking here. 💙
+
 https://harshita-2003.github.io/Harshita-Portfolio/  
 
 About Me 📝
