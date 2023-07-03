@@ -604,3 +604,38 @@ h6{
     top: 0;
     left: 0;
 }
+
+
+.reveal{
+    transition: 1s all ease;
+    animation:animate 2s linear;
+    animation-delay: 0s;
+  }
+  
+  @keyframes animate {
+    0%{
+        transform: translateX(150px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateX(0);
+        opacity: 100;
+    }
+  }
+
+  .coll-1{
+    transition: 1s all ease;
+    animation:one 2s linear;
+    animation-delay: 0s;
+  }
+
+  @keyframes one {
+    0%{
+        transform: translateX(-150px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateX(0);
+        opacity: 100;
+    }
+  }
