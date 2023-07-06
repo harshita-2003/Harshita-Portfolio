@@ -16,6 +16,9 @@ html{
 .nav-link{
     color:white;
 }
+a.nav-link:hover {
+    color: pink;
+}
 .nav-item{
     margin-right: 2rem;
 }
