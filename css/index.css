@@ -134,6 +134,7 @@ h6{
 }
 .img-fluid{
     border-radius: 10px;
+    filter: drop-shadow(0px 9px 5px grey);
 }
 /* BUTTONS */
 .btn {
@@ -645,14 +646,18 @@ h6{
   }
 
 
-  .swiperr {
+  /* .swiper {
     width: 300px;
     height: 300px;
     position: absolute;
-    left: 50%;
+    left: 0%;
     top: 50%;
     margin-left: -150px;
     margin-top: -150px;
+  } */
+
+  /* .swiper-image{
+
   }
 
   .swiper-slide {
@@ -663,4 +668,4 @@ h6{
   .swiper-slide img {
     display: block;
     width: 100%;
-  }
+  } */
